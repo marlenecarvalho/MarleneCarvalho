@@ -4,8 +4,7 @@
 
 <p align="center">
 Sou <b>Marlene Carvalho</b>, estudante de Engenharia de Software focada em desenvolvimento Back-End.<br>
-Atualmente estudo C#, C, Python e React para expandir meus conhecimentos e construir soluções inovadoras.<br>
-Estou sempre em busca de novos aprendizados e desafios!
+Que venham os novos aprendizados e desafios!<br>
 </p>
 
 ###
