@@ -1,10 +1,8 @@
-## Hi there 👋
-
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <p align="center">
 Sou <b>Marlene Carvalho</b>, estudante de Engenharia de Software focada em desenvolvimento Back-End.<br>
-Que venham os novos aprendizados e desafios!<br>
+Que venham os novos aprendizados e desafios!🚀🚀🚀<br>
 </p>
 
 ###
