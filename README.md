@@ -8,7 +8,7 @@ Que venham os novos aprendizados e desafios!🚀🚀🚀<br>
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,py,c,react,html,css" height="60" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=typescript,js,py,c,react,html,css,cs,postgres" height="60" alt="skills" />
 </div>
 
 ###
